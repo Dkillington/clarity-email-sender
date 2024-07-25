@@ -44,16 +44,15 @@ namespace EmailSenderWPF.View.UserControls
             {
                 List<string> foundErrors = new List<string>();
 
-                if (IsEmpty(recipientInput))
-                {
-                    Add("Recipient email cannot be blank!");
-                }
+                ValidateEmail();
+
 
                 if (IsEmpty(subjectInput))
                 {
                     Add("Subject line cannot be blank!");
                 }
 
+                
 
                 return foundErrors;
 
@@ -75,6 +74,24 @@ namespace EmailSenderWPF.View.UserControls
                 void Add(string errorText)
                 {
                     foundErrors.Add(errorText);
+                }
+
+
+
+
+                void ValidateEmail()
+                {
+                    if (IsEmpty(recipientInput))
+                    {
+                        Add("Recipient email cannot be blank!");
+                    }
+
+
+                    if(!recipientInput.InputBlock.Text.Contains("@") || !recipientInput.InputBlock.Text.Contains("."))
+                    {
+                        Add("Recipient email is not valid. Example: This@that.com");
+                    }
+
                 }
             }
 
