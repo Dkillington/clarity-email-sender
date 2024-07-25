@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmailSenderWPF/1.0.0": {
+        "runtime": {
+          "EmailSenderWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailSenderWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

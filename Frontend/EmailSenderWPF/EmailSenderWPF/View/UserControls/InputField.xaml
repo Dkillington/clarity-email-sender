@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="EmailSenderWPF.View.UserControls.InputField"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EmailSenderWPF.View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="500">
+    <!-- Input Field -->
+    <Grid Height="50" Width="500" Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".9*"/>
+            <ColumnDefinition Width=".1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Controls -->
+        <TextBox x:Name="InputBlock" Grid.Column="0" Panel.ZIndex="1" Background="Transparent" Margin="5, 0" VerticalAlignment="Center" FontSize="30" TextChanged="InputBlock_TextChanged"></TextBox>
+        <TextBlock x:Name="TempText" Grid.Column="0" Panel.ZIndex="0" Text= "{Binding TemporaryText}" Margin="10" VerticalAlignment="Center" FontStyle="Italic" FontSize="25"></TextBlock>
+        <Button x:Name="ClearBtn" Grid.Column="1" Margin="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="X" FontSize="30" Click="ClearBtn_Click"></Button>
+    </Grid>
+</UserControl>

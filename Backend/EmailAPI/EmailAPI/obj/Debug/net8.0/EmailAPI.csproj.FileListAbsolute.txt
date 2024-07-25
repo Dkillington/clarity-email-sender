@@ -1,0 +1,436 @@
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\appsettings.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.exe
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.deps.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.runtimeconfig.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.pdb
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Azure.Core.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Azure.Identity.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Humanizer.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.CodeDom.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.AssemblyReference.cache
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.AssemblyInfoInputs.cache
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.AssemblyInfo.cs
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.CoreCompileInputs.cache
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.sourcelink.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmailAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmailAPI.props
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmailAPI.props
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmailAPI.props
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\scopedcss\bundle\EmailAPI.styles.css
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.Up2Date
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\refint\EmailAPI.dll
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.pdb
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.genruntimeconfig.cache
+G:\Projects\C#\ASPNET Core Web APIs\EmailAPI\EmailAPI\obj\Debug\net8.0\ref\EmailAPI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\appsettings.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.exe
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.deps.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.runtimeconfig.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.pdb
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Azure.Core.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Azure.Identity.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Humanizer.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.CodeDom.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.AssemblyReference.cache
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.AssemblyInfoInputs.cache
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.AssemblyInfo.cs
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.sourcelink.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmailAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmailAPI.props
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmailAPI.props
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmailAPI.props
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\scopedcss\bundle\EmailAPI.styles.css
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.Up2Date
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\refint\EmailAPI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.pdb
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.genruntimeconfig.cache
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\ref\EmailAPI.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EntityFramework.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailSender.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailSender.pdb
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\SendGrid.dll
+G:\Projects\C#\Email Sender Project\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\StarkbankEcdsa.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\appsettings.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.exe
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.deps.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.runtimeconfig.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailAPI.pdb
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Azure.Core.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Azure.Identity.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EntityFramework.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Humanizer.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\SendGrid.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\StarkbankEcdsa.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.CodeDom.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailSender.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\bin\Debug\net8.0\EmailSender.pdb
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.AssemblyReference.cache
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.AssemblyInfoInputs.cache
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.AssemblyInfo.cs
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.CoreCompileInputs.cache
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmailAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmailAPI.props
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmailAPI.props
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmailAPI.props
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\scopedcss\bundle\EmailAPI.styles.css
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.csproj.Up2Date
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\refint\EmailAPI.dll
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.pdb
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\EmailAPI.genruntimeconfig.cache
+G:\Projects\C#\ClarityREPO\Backend\EmailAPI\EmailAPI\obj\Debug\net8.0\ref\EmailAPI.dll
