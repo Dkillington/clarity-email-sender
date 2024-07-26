@@ -63,12 +63,12 @@ Write in valid SQL server connection string
   "ConnectionStrings": { "DefaultConnection": "{YourConnectionStringHere}" },
 ```
 
-Provide a valid SendGridAPI key and SendGridEmail
+Provide a valid SendGridAPI key and SendGridEmail (You can use my credentials)
 ```c#
   // Custom settings for SendGrid functionality
   "AddedCredentials": {
-    "SendGridAPIKey": {YourAPIKeyHere}, // API Key
-    "SendGridEmail": {YourSendGridEmailHere} // Email used for SendGrid.com
+    "SendGridAPIKey": {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}, // API Key
+    "SendGridEmail": {David@GloucesterMassMarketing.com} // Email used for SendGrid.com
   }
 ```
 ### Reference the EmailSender.dll file
