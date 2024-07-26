@@ -11,7 +11,7 @@ Clarity Email Sender is a simple C# email sending platform comprised of the foll
 Download as a ZIP file, or clone the repo
 
 ```bash
-git clone https://github.com/Dkillington/clarity-email-sender
+git clone https://github.com/Dkillington/clarity-email-sender.git
 ```
 
 ### Configure Server Host Addresses
