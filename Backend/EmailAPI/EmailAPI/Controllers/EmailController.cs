@@ -4,6 +4,7 @@ using EmailAPI.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EmailSender;
+using System.Diagnostics;
 
 namespace EmailAPI.Controllers
 {
@@ -73,14 +74,11 @@ namespace EmailAPI.Controllers
                 return NotFound();
             }
 
-
+            // Send Email
             var apiKey = _configuration["AddedCredentials:SendGridAPIKey"];
             createdEmail.Sender = _configuration["AddedCredentials:SendGridEmail"];
-
-
-            // Send Email
-           await EmailSender.SendFunctionality.Execute(apiKey, createdEmail.Sender, createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
-
+            var res = await EmailSender.SendFunctionality.Execute(apiKey, createdEmail.Sender, createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
+            Debug.Print(res.StatusCode.ToString());
 
 
 

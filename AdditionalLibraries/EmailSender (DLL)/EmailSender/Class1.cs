@@ -1,4 +1,5 @@
-﻿using System.Net.Mail;
+﻿using System.Diagnostics;
+using System.Net.Mail;
 using SendGrid;
 using SendGrid.Helpers.Mail;
 
@@ -6,7 +7,7 @@ namespace EmailSender
 {
     public class SendFunctionality
     {
-        public static async Task Execute(string apiKey, string senderEmail, string recipientEmail, string subject, string body)
+        public static async Task<Response> Execute(string apiKey, string senderEmail, string recipientEmail, string subject, string body)
         {
             var client = new SendGridClient(apiKey);
             var from = new EmailAddress(senderEmail, "David Killian");
@@ -15,6 +16,12 @@ namespace EmailSender
             var htmlContent = body;
             var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
             var response = await client.SendEmailAsync(msg);
+
+            if (response.StatusCode == System.Net.HttpStatusCode.FailedDependency)
+            {
+
+            }
+            return response;
         }
     }
 }
