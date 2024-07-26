@@ -77,11 +77,9 @@ namespace EmailAPI.Controllers
             // Send Email
             var apiKey = _configuration["AddedCredentials:SendGridAPIKey"];
             createdEmail.Sender = _configuration["AddedCredentials:SendGridEmail"];
-            var res = await EmailSender.SendFunctionality.Execute(apiKey, createdEmail.Sender, createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
-            Debug.Print(res.StatusCode.ToString());
+            SendGrid.Response response = await EmailSender.SendFunctionality.Execute(apiKey, "John Doe", createdEmail.Sender, "Test Recipient", createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
 
-
-
+            Debug.Print($"\n\n\n{response.Body.ReadFromJsonAsync<SendGrid.Response>()}\n\n\n");
 
 
 
@@ -92,8 +90,22 @@ namespace EmailAPI.Controllers
             // Save
             await dbContext.SaveChangesAsync();
 
-            
-            return Ok(createdEmail);
+            if (response.StatusCode == System.Net.HttpStatusCode.OK)
+            {
+                return Ok(createdEmail);
+            }
+            else if(response.StatusCode == System.Net.HttpStatusCode.Accepted)
+            {
+                return Accepted(createdEmail);
+            }
+            else if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+            {
+                return Unauthorized(createdEmail);
+            }
+            else
+            {
+                return BadRequest(createdEmail);
+            }
         }
 
         // Update

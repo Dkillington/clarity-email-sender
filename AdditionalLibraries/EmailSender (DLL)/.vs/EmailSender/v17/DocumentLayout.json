@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|g:\\projects\\c#\\clarityfinalrepo\\additionallibraries\\emailsender (dll)\\emailsender\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|solutionrelative:emailsender\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|g:\\projects\\c#\\clarityfinalrepo\\additionallibraries\\emailsender (dll)\\emailsender\\sendfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|solutionrelative:emailsender\\sendfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\EmailSender\\Class1.cs",
-              "RelativeDocumentMoniker": "EmailSender\\Class1.cs",
-              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\EmailSender\\Class1.cs",
-              "RelativeToolTip": "EmailSender\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Title": "SendFunctionality.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\EmailSender\\SendFunctionality.cs",
+              "RelativeDocumentMoniker": "EmailSender\\SendFunctionality.cs",
+              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\EmailSender\\SendFunctionality.cs",
+              "RelativeToolTip": "EmailSender\\SendFunctionality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T18:20:12.727Z",
               "EditorCaption": ""

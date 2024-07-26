@@ -1,5 +1,7 @@
 ﻿using System.Configuration;
+using System.Diagnostics;
 using System.Net.Http;
+using System.Net.Http.Json;
 using System.Text;
 using System.Text.Json;
 using System.Windows;
@@ -16,14 +18,18 @@ namespace EmailSenderWPF.View.UserControls
             InitializeComponent();
         }
 
-        // When 'Send Email' button is clicked . . .
+        // When 'Send Email' button is clicked
         private void SendBtn_Click(object sender, RoutedEventArgs e)
         {
+            /*
             if (NoErrorsWithFrontendData())
             {
-                CreateEmail();
+                SendEmail();
             }
+            */
+            SendEmail();
 
+            // Validate frontend data
             bool NoErrorsWithFrontendData()
             {
                 List<string> foundErrors = FindErrors();
@@ -142,12 +148,13 @@ namespace EmailSenderWPF.View.UserControls
                 }
             }
 
-            async void CreateEmail()
+
+            async void SendEmail()
             {
                 // Create email from text fields
                 var newEmail = new SendableEmail()
                 {
-                    Sender = "Dkillian00@yahoo.com",
+                    Sender = "FakeEmail@NotReal.com",
                     Recipient = recipientInput.InputBlock.Text,
                     Subject = subjectInput.InputBlock.Text,
                     Body = messageInput.InputBlock.Text
@@ -163,9 +170,8 @@ namespace EmailSenderWPF.View.UserControls
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
 
                 // Send email
-                await client.PostAsync("/api/email", content);
-
-
+                HttpResponseMessage response = await client.PostAsync("/api/email", content);
+                Debug.Print(response.StatusCode.ToString());
 
                 // Gets the current ServerURI from App.config
                 string GetServerAddress()
