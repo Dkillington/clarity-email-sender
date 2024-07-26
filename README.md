@@ -36,16 +36,32 @@ Accept: application/json
 
 ### Configure appsettings.json
 #### In Backend/EmailAPI/EmailAPI.sln:
-Change "DefaultConnection" to a valid SQL server connection string
-```c#
+Create an appsettings.json file and copy over the following template
+``` c#
+{
   // SQL Server Connection String
-  "ConnectionStrings": { "DefaultConnection": "{YourConnectionStringHere}" },
+  "ConnectionStrings": { "DefaultConnection": "{YourConnectionStringHere}"},
   "Logging": {
     "LogLevel": {
       "Default": "Information",
       "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+
+  // Custom settings for SendGrid functionality
+  "AddedCredentials": {
+    "SendGridAPIKey": "{YourAPIKeyHere}", // API Key
+    "SendGridEmail": "{YourSendGridEmailHere}" // Email used for SendGrid.com
+  }
+}
 ```
 
+Write in valid SQL server connection string
+```c#
+  // SQL Server Connection String
+  "ConnectionStrings": { "DefaultConnection": "{YourConnectionStringHere}" },
+```
 
 Provide a valid SendGridAPI key and SendGridEmail
 ```c#
@@ -55,6 +71,11 @@ Provide a valid SendGridAPI key and SendGridEmail
     "SendGridEmail": {YourSendGridEmailHere} // Email used for SendGrid.com
   }
 ```
+### Reference the EmailSender.dll file
+#### Add Project Reference In Visual Studio
+- Right click EmailAPI.csproj, go to Add/Project Reference. . . /Browse
+#### Navigate to DLL file
+- ...\AdditionalLibraries\EmailSender (DLL)\EmailSender\bin\Debug\net8.0\EmailSender.dll
 
 ### Create Migrations
 #### In Backend/EmailAPI/EmailAPI.sln:
@@ -67,7 +88,6 @@ Add-Migration InitialCreate
 ```bash
 Update-Database
 ```
-
 
 ## Usage
 ### Run Programs in the Following Order:

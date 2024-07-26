@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|g:\\projects\\c#\\clarityfinalrepo\\backend\\emailapi\\emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|g:\\projects\\c#\\clarityfinalrepo\\backend\\emailapi\\emailapi\\emailapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\emailapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
@@ -22,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmailAPI.http",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.http",
               "RelativeDocumentMoniker": "EmailAPI\\EmailAPI.http",
@@ -35,18 +31,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-07-26T20:10:01.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "EmailAPI\\appsettings.json",
-              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\appsettings.json",
-              "RelativeToolTip": "EmailAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T20:09:59.953Z"
             },
             {
               "$type": "Document",
