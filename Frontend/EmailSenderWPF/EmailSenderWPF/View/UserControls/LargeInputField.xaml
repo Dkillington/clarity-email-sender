@@ -5,8 +5,8 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:EmailSenderWPF.View.UserControls"
              mc:Ignorable="d" 
-             d:DesignHeight="300" d:DesignWidth="500">
-    <Grid Height="300" Width="500" Background="White">
+             d:DesignHeight="300" d:DesignWidth="480">
+    <Grid Height="300" Width="480" Background="White">
         <!-- Controls -->
         <TextBox x:Name="InputBlock" Panel.ZIndex="1" Background="Transparent" Height="290" Margin="5, 0" VerticalAlignment="Center" FontSize="30" TextChanged="InputBlock_TextChanged"></TextBox>
         <TextBlock x:Name="TempText" Panel.ZIndex="0" Text= "{Binding TemporaryText}" Height="280" Margin="10" VerticalAlignment="Center" FontStyle="Italic" FontSize="25"></TextBlock>

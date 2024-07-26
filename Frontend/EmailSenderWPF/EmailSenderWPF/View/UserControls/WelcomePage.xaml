@@ -7,6 +7,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="500" Width="800">
     <Grid Height="500" Width="800" Background="LightBlue">
-        <Button x:Name="startBtn" Margin="310, 220" Content="Start" Click="startBtn_Click"></Button>
+        <Button x:Name="startBtn" Margin="248,171,248,205" Content="Start" FontSize="40" Click="startBtn_Click"></Button>
     </Grid>
 </UserControl>

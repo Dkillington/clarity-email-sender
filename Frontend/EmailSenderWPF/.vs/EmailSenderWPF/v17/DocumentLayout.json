@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|solutionrelative:emailsenderwpf\\view\\usercontrols\\emailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|g:\\projects\\c#\\clarityfinalrepo\\frontend\\emailsenderwpf\\emailsenderwpf\\view\\usercontrols\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|solutionrelative:emailsenderwpf\\view\\usercontrols\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|g:\\projects\\c#\\clarityfinalrepo\\frontend\\emailsenderwpf\\emailsenderwpf\\view\\usercontrols\\largeinputfield.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|solutionrelative:emailsenderwpf\\view\\usercontrols\\largeinputfield.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|g:\\projects\\c#\\clarityfinalrepo\\frontend\\emailsenderwpf\\emailsenderwpf\\view\\usercontrols\\emailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B3ABF7B0-816F-412E-BFF5-A4FD0E30D59B}|EmailSenderWPF\\EmailSenderWPF.csproj|solutionrelative:emailsenderwpf\\view\\usercontrols\\emailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -18,8 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "EmailSenderWPF\\View\\UserControls\\WelcomePage.xaml",
+              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\WelcomePage.xaml",
+              "RelativeToolTip": "EmailSenderWPF\\View\\UserControls\\WelcomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T21:13:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LargeInputField.xaml",
+              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\LargeInputField.xaml",
+              "RelativeDocumentMoniker": "EmailSenderWPF\\View\\UserControls\\LargeInputField.xaml",
+              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\LargeInputField.xaml",
+              "RelativeToolTip": "EmailSenderWPF\\View\\UserControls\\LargeInputField.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T21:12:50.141Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,21 +60,22 @@
               "RelativeDocumentMoniker": "EmailSenderWPF\\View\\UserControls\\EmailPage.xaml.cs",
               "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\EmailPage.xaml.cs",
               "RelativeToolTip": "EmailSenderWPF\\View\\UserControls\\EmailPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALkAAAARAAAA",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAEwKUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T14:30:17.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EmailPage.xaml",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\EmailPage.xaml",
               "RelativeDocumentMoniker": "EmailSenderWPF\\View\\UserControls\\EmailPage.xaml",
               "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Frontend\\EmailSenderWPF\\EmailSenderWPF\\View\\UserControls\\EmailPage.xaml",
               "RelativeToolTip": "EmailSenderWPF\\View\\UserControls\\EmailPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-26T14:30:15.591Z"
+              "WhenOpened": "2024-07-26T14:30:15.591Z",
+              "EditorCaption": ""
             }
           ]
         }
