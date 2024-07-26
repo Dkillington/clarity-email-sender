@@ -21,11 +21,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="EmailSender">
-      <HintPath>..\..\..\AdditionalLibraries\EmailSender (DLL)\EmailSender\bin\Debug\net8.0\EmailSender.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-
 </Project>

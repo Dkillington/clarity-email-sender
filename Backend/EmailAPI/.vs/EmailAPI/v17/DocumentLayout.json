@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|g:\\projects\\c#\\clarityfinalrepo\\backend\\emailapi\\emailapi\\emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|g:\\projects\\c#\\clarityfinalrepo\\backend\\emailapi\\emailapi\\emailapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\emailapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmailAPI",
+              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.csproj",
+              "RelativeDocumentMoniker": "EmailAPI\\EmailAPI.csproj",
+              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.csproj",
+              "RelativeToolTip": "EmailAPI\\EmailAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T20:41:26.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmailAPI.http",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.http",
               "RelativeDocumentMoniker": "EmailAPI\\EmailAPI.http",
@@ -30,7 +47,8 @@
               "RelativeToolTip": "EmailAPI\\EmailAPI.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-26T20:10:01.203Z"
+              "WhenOpened": "2024-07-26T20:10:01.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +58,7 @@
               "RelativeDocumentMoniker": "EmailAPI\\Controllers\\EmailController.cs",
               "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\Controllers\\EmailController.cs",
               "RelativeToolTip": "EmailAPI\\Controllers\\EmailController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAArAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwBMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T14:58:53.8Z",
               "EditorCaption": ""
