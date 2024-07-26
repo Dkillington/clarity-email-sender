@@ -3,8 +3,6 @@ using EmailAPI.Models.DTOs;
 using EmailAPI.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using EmailSender;
-using System.Diagnostics;
 
 namespace EmailAPI.Controllers
 {
@@ -37,30 +35,31 @@ namespace EmailAPI.Controllers
             return Ok(allEmails); // Return all emails with a code 200
         }
 
+        // Read (Specific email)
         [Route("{id}")]
         [HttpGet]
         public async Task<IActionResult> GetEmail(int id)
         {
-            var foundEmail = await dbContext.Emails.FindAsync(id); // Grab specific email asynchronously
+            var foundEmail = await dbContext.Emails.FindAsync(id); 
 
             if (foundEmail == null)
             {
-                return NotFound(); // Return 404
+                return NotFound();
             }
 
-            return Ok(foundEmail); // Return given email (Status: 200)
+            return Ok(foundEmail); 
         }
 
         // Create
         [HttpPost]
         public async Task<IActionResult> CreateEmail(CreateEmailDto emailDto)
         {
-            if (emailDto == null)
+            if(EmailIsNotValid())
             {
                 return NotFound();
             }
 
-            // Copy over emailDto values to newly created email
+            // Copy over given values to newly created email
             var createdEmail = new Email()
             {
                 Sender = emailDto.Sender,
@@ -75,14 +74,11 @@ namespace EmailAPI.Controllers
             }
 
             // Send Email
-            var apiKey = _configuration["AddedCredentials:SendGridAPIKey"];
-            createdEmail.Sender = _configuration["AddedCredentials:SendGridEmail"];
+            var apiKey = _configuration["AddedCredentials:SendGridAPIKey"]; // Grab API key from appsettings.json
+            createdEmail.Sender = _configuration["AddedCredentials:SendGridEmail"]; // Grab SendGrid email from appsettings.json
             SendGrid.Response response = await EmailSender.SendFunctionality.Execute(apiKey, "John Doe", createdEmail.Sender, "Test Recipient", createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
 
-            Debug.Print($"\n\n\n{response.Body.ReadFromJsonAsync<SendGrid.Response>()}\n\n\n");
-
-
-
+            AssignStatusToEmail();
 
             // Add
             await dbContext.Emails.AddAsync(createdEmail);
@@ -106,12 +102,60 @@ namespace EmailAPI.Controllers
             {
                 return BadRequest(createdEmail);
             }
+
+            // Check for invalid email details
+            bool EmailIsNotValid()
+            {
+                if (emailDto == null || IsInvalid(emailDto.Sender) || IsInvalid(emailDto.Recipient) || IsInvalid(emailDto.Subject) || IsInvalid(emailDto.Body))
+                {
+                    return true;
+                }
+
+                return false;
+
+
+                bool IsInvalid(string text)
+                {
+                    if (string.IsNullOrWhiteSpace(text))
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            // Make sure email gets correct response status (Sent or Failed)
+            void AssignStatusToEmail()
+            {
+                if (StatusCodeOk())
+                {
+                    createdEmail.Status = EmailStatus.Sent;
+                }
+                else
+                {
+                    createdEmail.Status = EmailStatus.Failed;
+                }
+
+                // Verify returned status code is OK (Email sent)
+                bool StatusCodeOk()
+                {
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK || response.StatusCode == System.Net.HttpStatusCode.Accepted)
+                    {
+                        return true;
+                    }
+
+                    return false;
+                }
+            }
         }
 
         // Update
         [Route("{id}")]
         [HttpPut]
-        public async Task<IActionResult> UpdateEmail(CreateEmailDto emailDto, int id)
+        public async Task<IActionResult> UpdateEmail(UpdateEmailDto emailDto, int id)
         {
             // Find
             var foundEmail = await dbContext.Emails.FindAsync(id); // Grab specific email asynchronously
@@ -126,6 +170,7 @@ namespace EmailAPI.Controllers
             foundEmail.Recipient = emailDto.Recipient;
             foundEmail.Subject = emailDto.Subject;
             foundEmail.Body = emailDto.Body;
+            foundEmail.Status = emailDto.Status;
 
             // Save
             await dbContext.SaveChangesAsync(); 

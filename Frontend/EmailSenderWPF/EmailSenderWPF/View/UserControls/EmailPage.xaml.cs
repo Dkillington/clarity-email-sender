@@ -21,13 +21,10 @@ namespace EmailSenderWPF.View.UserControls
         // When 'Send Email' button is clicked
         private void SendBtn_Click(object sender, RoutedEventArgs e)
         {
-            /*
             if (NoErrorsWithFrontendData())
             {
                 SendEmail();
             }
-            */
-            SendEmail();
 
             // Validate frontend data
             bool NoErrorsWithFrontendData()
@@ -170,8 +167,7 @@ namespace EmailSenderWPF.View.UserControls
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
 
                 // Send email
-                HttpResponseMessage response = await client.PostAsync("/api/email", content);
-                Debug.Print(response.StatusCode.ToString());
+                await client.PostAsync("/api/email", content);
 
                 // Gets the current ServerURI from App.config
                 string GetServerAddress()
