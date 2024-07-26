@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EmailSenderWPF
+﻿namespace EmailSenderWPF.Scripts
 {
+    // The format for an email sent from WPF Frontend to API Backend
     internal class SendableEmail
     {
         public required string Sender { get; set; }

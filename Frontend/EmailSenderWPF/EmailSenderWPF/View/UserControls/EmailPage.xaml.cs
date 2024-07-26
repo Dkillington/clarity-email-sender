@@ -1,25 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Configuration;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using EmailSenderWPF.Scripts;
 
 namespace EmailSenderWPF.View.UserControls
 {
-    /// <summary>
-    /// Interaction logic for EmailPage.xaml
-    /// </summary>
+    // All functionality for the 'Create Email' page
     public partial class EmailPage : UserControl
     {
         public EmailPage()
@@ -27,74 +16,131 @@ namespace EmailSenderWPF.View.UserControls
             InitializeComponent();
         }
 
-        // For when email is sent
+        // When 'Send Email' button is clicked . . .
         private void SendBtn_Click(object sender, RoutedEventArgs e)
         {
-            List<string> foundErrors = FindErrors();
-            if (foundErrors.Count > 0)
-            {
-                ShowErrors(foundErrors);
-            }
-            else
+            if (NoErrorsWithFrontendData())
             {
                 CreateEmail();
             }
 
-            List<string> FindErrors()
+            bool NoErrorsWithFrontendData()
             {
-                List<string> foundErrors = new List<string>();
-
-                ValidateEmail();
-
-
-                if (IsEmpty(subjectInput))
+                List<string> foundErrors = FindErrors();
+                if (foundErrors.Count > 0)
                 {
-                    Add("Subject line cannot be blank!");
+                    ShowErrors(foundErrors);
+
+                    return false;
                 }
-
-                
-
-                return foundErrors;
-
-
-                bool IsEmpty(InputField item)
+                else
                 {
-                    if (string.IsNullOrWhiteSpace(item.InputBlock.Text))
-                    {
-                        return true;
-                    }
-                    else
-                    {
-                        return false;
-                    }
+                    return true;
                 }
 
 
 
-                void Add(string errorText)
+                // Return all frontend data validation errors
+                List<string> FindErrors()
                 {
-                    foundErrors.Add(errorText);
+                    List<string> foundErrors = new List<string>();
+                    ValidateEmail();
+                    ValidateSubject();
+                    ValidateMessage();
+                    return foundErrors;
+
+
+
+                    void ValidateEmail()
+                    {
+                        bool recipientIsBlank = IsEmpty(recipientInput);
+
+                        if (recipientIsBlank)
+                        {
+                            Add("Recipient email cannot be blank!");
+                        }
+
+                        // Recipient isn't blank, but it lacks a '@' or a '.'
+                        if (!recipientIsBlank && (!recipientInput.InputBlock.Text.Contains("@") || !recipientInput.InputBlock.Text.Contains(".")))
+                        {
+                            Add("Recipient email is not valid. Example: This@that.com");
+                        }
+
+                    }
+                    void ValidateSubject()
+                    {
+                        if (IsEmpty(subjectInput))
+                        {
+                            Add("Subject line cannot be blank!");
+                        }
+                    }
+                    void ValidateMessage()
+                    {
+                        if (string.IsNullOrWhiteSpace(messageInput.InputBlock.Text))
+                        {
+                            Add("You must write a message!");
+                        }
+                    }
+
+                    // Check if field is empty
+                    bool IsEmpty(InputField item)
+                    {
+                        if (string.IsNullOrWhiteSpace(item.InputBlock.Text))
+                        {
+                            return true;
+                        }
+                        else
+                        {
+                            return false;
+                        }
+                    }
+                    // Add an error message to the list
+                    void Add(string errorText)
+                    {
+                        foundErrors.Add(errorText);
+                    }
                 }
 
-
-
-
-                void ValidateEmail()
+                // Show all errors (If any are found)
+                static void ShowErrors(List<string> allErrors)
                 {
-                    if (IsEmpty(recipientInput))
+                    // Generate popup
+                    MessageBox.Show(GenerateErrorMessage(), "ERROR!", MessageBoxButton.OK, MessageBoxImage.Error);
+
+                    string GenerateErrorMessage()
                     {
-                        Add("Recipient email cannot be blank!");
+                        string errorMessage = "";
+
+                        int indexCount = 0;
+                        foreach (string error in allErrors)
+                        {
+                            indexCount++;
+                            errorMessage += error;
+
+                            if (!ErrorIsLastInList())
+                            {
+                                errorMessage += ",\n\n";
+                            }
+
+
+                            // Check if current error is the last error found
+                            bool ErrorIsLastInList()
+                            {
+                                if (indexCount == allErrors.Count)
+                                {
+                                    return true;
+                                }
+                                else
+                                {
+                                    return false;
+                                }
+                            }
+                        }
+
+                        return errorMessage;
                     }
-
-
-                    if(!recipientInput.InputBlock.Text.Contains("@") || !recipientInput.InputBlock.Text.Contains("."))
-                    {
-                        Add("Recipient email is not valid. Example: This@that.com");
-                    }
-
                 }
             }
-
 
             async void CreateEmail()
             {
@@ -108,56 +154,36 @@ namespace EmailSenderWPF.View.UserControls
                 };
 
 
-                // Communicating with API
+                // Communicate with Email API
                 var client = new HttpClient();
-                client.BaseAddress = new Uri(AppSettingsHelper.GetAppSetting("ServerURI"));
+                client.BaseAddress = new Uri(GetServerAddress());
 
+                // Serialize email
                 var json = JsonSerializer.Serialize(newEmail);
                 var content = new StringContent(json, Encoding.UTF8, "application/json");
 
+                // Send email
                 await client.PostAsync("/api/email", content);
-            }
 
 
 
-        }
-        private static void ShowErrors(List<string> allErrors)
-        {
-            MessageBox.Show(ReturnErrorMessage(), "ERROR!", MessageBoxButton.OK, MessageBoxImage.Error);
-
-            string ReturnErrorMessage()
-            {
-                string errorMessage = "";
-
-                int indexCount = 0;
-                foreach (string error in allErrors)
+                // Gets the current ServerURI from App.config
+                string GetServerAddress()
                 {
-                    indexCount++;
-                    errorMessage += error;
+                    string? address = ConfigurationManager.AppSettings["ServerURI"];
 
-                    if (!ErrorIsLastInList())
+                    // Returns a local host if address is null
+                    if (address == null)
                     {
-                        errorMessage += ", ";
+                        return "http://localhost:5178";
                     }
-
-                    bool ErrorIsLastInList()
+                    else
                     {
-                        if (indexCount == allErrors.Count)
-                        {
-                            return true;
-                        }
-                        else
-                        {
-                            return false;
-                        }
+                        return address;
                     }
                 }
-                return errorMessage;
             }
-        }
 
-        private void SendEmail()
-        {
 
         }
     }

@@ -3,11 +3,7 @@ using EmailAPI.Models.DTOs;
 using EmailAPI.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using EmailSender;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Diagnostics;
 
 namespace EmailAPI.Controllers
 {
@@ -30,7 +26,7 @@ namespace EmailAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllEmails()
         {
-            var allEmails = await dbContext.emails.ToListAsync(); // Grab all emails asynchronously
+            var allEmails = await dbContext.Emails.ToListAsync(); // Grab all emails asynchronously
 
             if(allEmails == null)
             {
@@ -44,7 +40,7 @@ namespace EmailAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> GetEmail(int id)
         {
-            var foundEmail = await dbContext.emails.FindAsync(id); // Grab specific email asynchronously
+            var foundEmail = await dbContext.Emails.FindAsync(id); // Grab specific email asynchronously
 
             if (foundEmail == null)
             {
@@ -83,7 +79,7 @@ namespace EmailAPI.Controllers
 
 
             // Send Email
-            await EmailSender.SendFunctionality.Execute(apiKey, createdEmail.Sender, createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
+           await EmailSender.SendFunctionality.Execute(apiKey, createdEmail.Sender, createdEmail.Recipient, createdEmail.Subject, createdEmail.Body);
 
 
 
@@ -93,7 +89,7 @@ namespace EmailAPI.Controllers
 
 
             // Add
-            await dbContext.emails.AddAsync(createdEmail);
+            await dbContext.Emails.AddAsync(createdEmail);
 
             // Save
             await dbContext.SaveChangesAsync();
@@ -108,7 +104,7 @@ namespace EmailAPI.Controllers
         public async Task<IActionResult> UpdateEmail(CreateEmailDto emailDto, int id)
         {
             // Find
-            var foundEmail = await dbContext.emails.FindAsync(id); // Grab specific email asynchronously
+            var foundEmail = await dbContext.Emails.FindAsync(id); // Grab specific email asynchronously
 
             if (foundEmail == null)
             {
@@ -133,7 +129,7 @@ namespace EmailAPI.Controllers
         public async Task<IActionResult> DeleteEmail(int id)
         {
             // Find
-            var foundEmail = await dbContext.emails.FindAsync(id); // Grab specific email asynchronously
+            var foundEmail = await dbContext.Emails.FindAsync(id); // Grab specific email asynchronously
 
             if (foundEmail == null)
             {
@@ -141,7 +137,7 @@ namespace EmailAPI.Controllers
             }
 
             // Remove
-            dbContext.emails.Remove(foundEmail);
+            dbContext.Emails.Remove(foundEmail);
 
             // Save
             await dbContext.SaveChangesAsync();

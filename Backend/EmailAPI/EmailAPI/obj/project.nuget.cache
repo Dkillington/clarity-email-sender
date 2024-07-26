@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+bc0/cxwxY=",
+  "dgSpecHash": "mUx8X9GOdgM=",
   "success": true,
-  "projectFilePath": "G:\\Projects\\C#\\ClarityREPO\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.csproj",
+  "projectFilePath": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dkill\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dkill\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -96,11 +96,7 @@
     "C:\\Users\\Dkill\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\Dkill\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\Dkill\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Dkill\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Dkill\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.4\\microsoft.netcore.app.ref.8.0.4.nupkg.sha512",
-    "C:\\Users\\Dkill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.4\\microsoft.windowsdesktop.app.ref.8.0.4.nupkg.sha512",
-    "C:\\Users\\Dkill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.4\\microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512",
-    "C:\\Users\\Dkill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.4\\microsoft.netcore.app.host.win-x64.8.0.4.nupkg.sha512"
+    "C:\\Users\\Dkill\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -27,8 +27,9 @@
 
   <ItemGroup>
     <Reference Include="EmailSender">
-      <HintPath>..\..\..\..\CLARITY PROJ\EmailSender\EmailSender\bin\Debug\net8.0\EmailSender.dll</HintPath>
+      <HintPath>..\..\..\AdditionalLibraries\EmailSender (DLL)\EmailSender\bin\Debug\net8.0\EmailSender.dll</HintPath>
     </Reference>
   </ItemGroup>
+
 
 </Project>

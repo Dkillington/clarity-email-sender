@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Projects\\C#\\CLARITY PROJ\\EmailSender\\",
+  "WorkspaceRootPath": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|g:\\projects\\c#\\clarity proj\\emailsender\\emailsender\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|g:\\projects\\c#\\clarityfinalrepo\\additionallibraries\\emailsender (dll)\\emailsender\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{598FD32A-3402-4307-9B89-03E0334F1C9E}|EmailSender\\EmailSender.csproj|solutionrelative:emailsender\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "G:\\Projects\\C#\\CLARITY PROJ\\EmailSender\\EmailSender\\Class1.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\EmailSender\\Class1.cs",
               "RelativeDocumentMoniker": "EmailSender\\Class1.cs",
-              "ToolTip": "G:\\Projects\\C#\\CLARITY PROJ\\EmailSender\\EmailSender\\Class1.cs",
+              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\AdditionalLibraries\\EmailSender (DLL)\\EmailSender\\Class1.cs",
               "RelativeToolTip": "EmailSender\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

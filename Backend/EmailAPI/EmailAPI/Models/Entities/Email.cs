@@ -1,5 +1,6 @@
 ﻿namespace EmailAPI.Models.Entities
 {
+    // The email stored in the database
     public class Email
     {
         public int Id { get; set; }

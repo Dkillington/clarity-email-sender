@@ -1,6 +1,5 @@
+### This host must match the host address in EmailSenderWPF/App.config
 @EmailAPI_HostAddress = http://localhost:5178
 
 GET {{EmailAPI_HostAddress}}/weatherforecast/
 Accept: application/json
-
-###

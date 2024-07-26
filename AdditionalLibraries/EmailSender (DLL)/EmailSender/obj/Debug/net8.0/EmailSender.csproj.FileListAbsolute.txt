@@ -10,3 +10,16 @@ G:\Projects\C#\CLARITY PROJ\EmailSender\EmailSender\obj\Debug\net8.0\EmailSender
 G:\Projects\C#\CLARITY PROJ\EmailSender\EmailSender\obj\Debug\net8.0\refint\EmailSender.dll
 G:\Projects\C#\CLARITY PROJ\EmailSender\EmailSender\obj\Debug\net8.0\EmailSender.pdb
 G:\Projects\C#\CLARITY PROJ\EmailSender\EmailSender\obj\Debug\net8.0\ref\EmailSender.dll
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\bin\Debug\net8.0\EmailSender.deps.json
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\bin\Debug\net8.0\EmailSender.dll
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\bin\Debug\net8.0\EmailSender.pdb
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.csproj.AssemblyReference.cache
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.AssemblyInfoInputs.cache
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.AssemblyInfo.cs
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.csproj.CoreCompileInputs.cache
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.sourcelink.json
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.dll
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\refint\EmailSender.dll
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\EmailSender.pdb
+G:\Projects\C#\ClarityFinalRepo\AdditionalLibraries\EmailSender (DLL)\EmailSender\obj\Debug\net8.0\ref\EmailSender.dll

@@ -2,14 +2,14 @@
 using Microsoft.EntityFrameworkCore;
 namespace EmailAPI.Data
 {
+    // Class for accessing SQL database
     public class ApplicationDbContext : DbContext // Inherit DbContext class functionality
     {
-        // Constructor
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
         }
 
-        public DbSet<Email> emails { get; set; } // All stored emails
+        public DbSet<Email> Emails { get; set; } // All stored emails
     }
 }
