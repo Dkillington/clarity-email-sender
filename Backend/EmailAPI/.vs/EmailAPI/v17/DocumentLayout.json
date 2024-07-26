@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|g:\\projects\\c#\\clarityfinalrepo\\backend\\emailapi\\emailapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|g:\\projects\\c#\\clarityfinalrepo\\backend\\emailapi\\emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9AB166C7-7E20-4216-B4EA-791018C70A52}|EmailAPI\\EmailAPI.csproj|solutionrelative:emailapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\.gitignore",
+              "RelativeDocumentMoniker": "EmailAPI\\.gitignore",
+              "ToolTip": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\.gitignore",
+              "RelativeToolTip": "EmailAPI\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-26T20:53:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EmailAPI\\appsettings.json",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmailAPI.csproj",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.csproj",
               "RelativeDocumentMoniker": "EmailAPI\\EmailAPI.csproj",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmailAPI.http",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\EmailAPI.http",
               "RelativeDocumentMoniker": "EmailAPI\\EmailAPI.http",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmailController.cs",
               "DocumentMoniker": "G:\\Projects\\C#\\ClarityFinalRepo\\Backend\\EmailAPI\\EmailAPI\\Controllers\\EmailController.cs",
               "RelativeDocumentMoniker": "EmailAPI\\Controllers\\EmailController.cs",
@@ -75,8 +92,7 @@
               "RelativeToolTip": "EmailAPI\\Controllers\\EmailController.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAIwBMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T14:58:53.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T14:58:53.8Z"
             }
           ]
         }
